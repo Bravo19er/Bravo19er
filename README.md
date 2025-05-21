@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Bravo19er
 
-<!--
-**Bravo19er/Bravo19er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build mobile-friendly, open-source tools that help people work better — with clarity, flexibility, and a mindset for what's coming next.
 
-Here are some ideas to get you started:
+### Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**AI-Ready Workspace**](https://github.com/Bravo19er/ai-ready-workspace)  
+  Migration toolkit for transitioning from Microsoft 365 to Google Workspace with AI-readiness in mind.
+
+- [**MD Tools Mobile**](https://github.com/Bravo19er/md-tools-mobile)  
+  Practical markdown templates for freelancers, devs, and creators — built for speed and mobile-first editing.
+
+### What I Focus On
+
+- Simplicity over complexity
+- Tools that support transition, not distraction
+- Empowering small teams and solo builders
+
+---
+
+If these projects save you time or help you work smarter, consider [sponsoring here](https://github.com/sponsors/Bravo19er).  
+Every bit helps keep the work focused, independent, and evolving.
+
+Thanks for visiting.
