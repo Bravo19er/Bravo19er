@@ -1,4 +1,4 @@
-# Hi, I'm Bravo19er
+# Bravo19er Projects
 
 I build mobile-friendly, open-source tools that help people work better — with clarity, flexibility, and a mindset for what's coming next.
 
